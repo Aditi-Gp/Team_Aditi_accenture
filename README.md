@@ -48,8 +48,3 @@ To accommodate cloud hosting constraints, I deployed the system on **Render** wi
 - **Production-conscious:** Designed with real-world constraints in mind — latency, edge deployment, and core retail KPIs.
 
 ---
-
-## 🚀 Get Started
-
-> Want to run the system or explore the demo?  
-> Refer to the [`/docs`](./docs) folder for setup instructions, architecture, and agent configurations.
